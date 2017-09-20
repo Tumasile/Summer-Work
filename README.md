@@ -1,7 +1,8 @@
-# Summer-Work
-Project done during summer.
+# Software Development
 
 Hi There
 
-Tumasile here, Am a 4th year graduant, graduated in computer sciences, I like coding, mostly python, java and PHP.
-I developed some working programs of java, python, sql scripts and PHP
+Tumasile here, am a 4th year graduant, I like coding, mostly Python, Java, PHP and some sql.
+I developed some working programs of java, python, sql and PHP which can be found bellow.
+
+The purpose of this projects is get help and gain experience,
